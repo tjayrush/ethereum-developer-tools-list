@@ -299,6 +299,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Ethereum ETL](https://github.com/blockchain-etl/ethereum-etl) - Export Ethereum blockchain data to CSV or JSON files
 * [prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - Prettier plugin for formatting Solidity code
 * [EthToolbox](https://eth-toolbox.com) - A web app with off-chain tools for Ethereum developers. EC recovery, address formatter, unit converter, hash functions, keys generator, etc.
+* [QuickBlocks](https://github.com/Great-Hill-Corporation/quickBlocks) - Detail of every tx on an address(es) direclty from the node. Fully decoded data delivered nearly instantaneously.
 
 ### Smart Contract Standards & Libraries
 #### [ERCs](https://eips.ethereum.org/erc) - The Ethereum Request for Comment repository
